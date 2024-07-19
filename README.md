@@ -2,7 +2,7 @@
 
 **Movie Update Notifier** is a Node.js application that checks for updates in Telugu movie release dates and sends email notifications when changes are detected. It utilizes TMDB (The Movie Database) API for fetching movie data and Node.js's `node-cron` for scheduling periodic checks.
 
-**Live Demo**: View the live demo of the Movie Update Notifier [here](https://movie-update-notifier.onrender.com/). 🚀
+**Live Demo**: View the live demo of the Movie Update Notifier [here](https://movie-update-notifier.onrender.com/health). 🚀
 
 ![Live Demo](https://github.com/nagacharankumarreddy/movie-update-notifier/blob/main/src/mail.png)
 
