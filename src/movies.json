@@ -1,0 +1,340 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 1222479,
+    "original_language": "te",
+    "original_title": "మిరాయి",
+    "overview": "Following the historic Kalinga battle, where King Ashoka of the Maurya dynasty emerged as the winner, he chose to walk the path of peace instead of continuing warfare. Yet, the kingdom appointed nine warriors to protect some ancient scriptures rumored to have the ability to make someone divine or godlike.",
+    "popularity": 3.009,
+    "poster_path": "/dDgpfg5DMIYcUKtTFtSHty8CWkr.jpg",
+    "release_date": "2025-04-18",
+    "title": "Mirai",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      14
+    ],
+    "id": 1229939,
+    "original_language": "te",
+    "original_title": "విశ్వంభర",
+    "overview": "Mega 156 is a working title for Mega Star Chiranjeevi's 156th film and it is an action drama movie directed by Vassishta. The film is produced by UV Creations banner.",
+    "popularity": 2.025,
+    "poster_path": "/okvbHBfZUiuhEKhsWoUNGKKP0cY.jpg",
+    "release_date": "2025-01-10",
+    "title": "Viswambhara",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gGSS8qW3r2dmNSIU0nrL4wh9Cgv.jpg",
+    "genre_ids": [
+      27,
+      35,
+      10749
+    ],
+    "id": 1022453,
+    "original_language": "te",
+    "original_title": "ది రాజా సాబ్",
+    "overview": "A couple fights destiny and negative forces for their love.",
+    "popularity": 5.669,
+    "poster_path": "/ejsOncU1lxaK7iwL2HwjnLYKWKG.jpg",
+    "release_date": "2025-01-10",
+    "title": "The Raja Saab",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1210457,
+    "original_language": "te",
+    "original_title": "Untitled Vishnuvardhan film",
+    "overview": "In the dark underbelly of the city, Bloodshed Bhai, a feared and ruthless gangster, rises to power, leaving a trail of violence and chaos in his wake. As law enforcement agencies close in on him, Bloodshed Bhai must navigate obstacles.",
+    "popularity": 5.827,
+    "poster_path": null,
+    "release_date": "2024-12-25",
+    "title": "Untitled Vishnuvardhan film",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      28
+    ],
+    "id": 1120762,
+    "original_language": "te",
+    "original_title": "రోబింహూడ్",
+    "overview": "Robinhood - #VN2 Mythri Movie Makers starring Nithiin as lead actor. Directed by Venky Kudmula, Music by GV Prakash Kumar, Produced by Naveen Yerneni & Y. Ravi Shankar under Mythri Movie Makers Banner.",
+    "popularity": 4.414,
+    "poster_path": "/y3CDCunOYDZjtvTh4FeQC9ADUUA.jpg",
+    "release_date": "2024-12-20",
+    "title": "Robinhood",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6VclCsTqwxa12gAUnA3K2eF2U0e.jpg",
+    "genre_ids": [
+      80,
+      28,
+      12,
+      53
+    ],
+    "id": 857598,
+    "original_language": "te",
+    "original_title": "పుష్పా 2 - The Rule",
+    "overview": "",
+    "popularity": 9.842,
+    "poster_path": "/1T21FblunT0y8fz7YaW8JMYgUKm.jpg",
+    "release_date": "2024-12-06",
+    "title": "Pushpa 2 - The Rule",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [],
+    "id": 1102353,
+    "original_language": "te",
+    "original_title": "Mechanic Rocky",
+    "overview": "",
+    "popularity": 1.241,
+    "poster_path": "/Ag7k7ZI8S08P37Z47o2B3PHdFeT.jpg",
+    "release_date": "2024-10-31",
+    "title": "Mechanic Rocky",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18,
+      36
+    ],
+    "id": 1208462,
+    "original_language": "te",
+    "original_title": "Dr. A. P. J. Abdul Kalam",
+    "overview": "The inspirational journey of Dr. Avul Pakir Jainulabdeen Abdul Kalam, Indian aerospace scientist and statesman who served as the 11th president of India from 2002 to 2007.",
+    "popularity": 1.974,
+    "poster_path": "/uMpM1KIrdqhXjRNxxstckBGpzDf.jpg",
+    "release_date": "2024-10-11",
+    "title": "Dr. A. P. J. Abdul Kalam",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xog6M87uhSR9RiqQHqmJodluZho.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1080365,
+    "original_language": "te",
+    "original_title": "దె కాల్ హిమ్ ఓజి",
+    "overview": "OG revolves around a ruthless gangster named Ojas Gambheera \"OG\" who returns to Mumbai after disappearing for 10 years on a personal crusade to finish crime bosses.",
+    "popularity": 7.608,
+    "poster_path": "/uDg52hGwy4Dm8hGGVYK3PHQzsKc.jpg",
+    "release_date": "2024-09-27",
+    "title": "They Call Him OG",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/r0QujXaZxDwTMJMcqHyHWWgCwDj.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 811941,
+    "original_language": "te",
+    "original_title": "దేవర: Part 1",
+    "overview": "Weapons recite the story of one man and his terrifying tale.",
+    "popularity": 19.78,
+    "poster_path": "/8FBhil5ZwTT3PP0l15jyWicoxHQ.jpg",
+    "release_date": "2024-09-26",
+    "title": "Devara: Part 1",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18,
+      36
+    ],
+    "id": 1233993,
+    "original_language": "te",
+    "original_title": "Untitled Gummadi Narsaiah Biopic",
+    "overview": "A biography of Indian politician Gummadi Narsaiah, who was a leading member of the Communist Party of India New Democracy.",
+    "popularity": 2.648,
+    "poster_path": null,
+    "release_date": "2024-09-18",
+    "title": "Untitled Gummadi Narsaiah Biopic",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ],
+    "id": 1239511,
+    "original_language": "te",
+    "original_title": "లక్కీ భాస్కర్‌",
+    "overview": "Showcases the captivating journey of an ordinary man and his triumphs.",
+    "popularity": 6.962,
+    "poster_path": "/a47JQFl9L7VDa79tEvnTOJe0rPa.jpg",
+    "release_date": "2024-09-07",
+    "title": "Lucky Baskhar",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [],
+    "id": 1277726,
+    "original_language": "te",
+    "original_title": "Sundarakanda",
+    "overview": "This film is going to be a fun filled rom-rom packed with many colourful nuances.",
+    "popularity": 4.437,
+    "poster_path": "/w61zzP5x5Q0AvzVAbTEx40SxhJH.jpg",
+    "release_date": "2024-09-06",
+    "title": "Sundarakanda",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rv0L0O9bQsQ8mUca3mD11UPcqk0.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1194915,
+    "original_language": "te",
+    "original_title": "స‌రిపోదా శ‌నివారం",
+    "overview": "",
+    "popularity": 7.955,
+    "poster_path": "/a7CrkOs6R0nK9LoD8MRAM1Lmerj.jpg",
+    "release_date": "2024-08-29",
+    "title": "Saripodhaa Sanivaram",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mE5yxgD1MS3ULsjBG2YzshIKyQJ.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "id": 1127824,
+    "original_language": "te",
+    "original_title": "Double iSmart",
+    "overview": "The sequel to the 2019 sci-fi hit iSmart Shankar.",
+    "popularity": 9.437,
+    "poster_path": "/vmSeOK6pFxFL8Yn5x1uafOcIaiy.jpg",
+    "release_date": "2024-08-15",
+    "title": "Double iSmart",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 1228561,
+    "original_language": "te",
+    "original_title": "Gopi Galla Goa Trip",
+    "overview": "Two boys from rural Telangana travel to Goa to get some ‘girlfriend experience’.",
+    "popularity": 5.384,
+    "poster_path": "/4A8N3sQxdy0jsNDvY8OArtaHeMl.jpg",
+    "release_date": "2024-07-27",
+    "title": "Gopi Galla Goa Trip",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      28,
+      35
+    ],
+    "id": 1230407,
+    "original_language": "te",
+    "original_title": "బడ్డీ",
+    "overview": "A teddy bear named Buddy is in trouble and asks pilot Aditya Ram for help. Can the duo join forces and help each other out?",
+    "popularity": 10.832,
+    "poster_path": "/4kBQXF9Yxkqje4Ss43vHDwqDHtu.jpg",
+    "release_date": "2024-07-26",
+    "title": "Buddy",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1315143,
+    "original_language": "te",
+    "original_title": "డార్లింగ్",
+    "overview": "A lonely man rushes into marriage with a free-spirited woman but is concerned by her increasingly erratic behavior.",
+    "popularity": 0.129,
+    "poster_path": "/gsyEGOXcehjOxX1cuQuuXOZYvmz.jpg",
+    "release_date": "2024-07-19",
+    "title": "Darling",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  }
+]
